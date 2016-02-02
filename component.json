@@ -1,0 +1,12 @@
+{
+    "name": "block-stream",
+    "description": "a stream of blocks",
+    "repos": "https://github.com/isaacs/block-stream.git",
+    "main": "block-stream.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "inherits": "~1.0.0"
+    },
+    "version": "0.0.3"
+}
